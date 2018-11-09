@@ -1,0 +1,11 @@
+{
+  "name": "spryker-feature/refunds",
+  "description": "Refunds [feature]",
+  "type": "metapackage",
+  "license": "proprietary",
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.1",
+    "spryker/refund": "^5.1.2"
+  }
+}
