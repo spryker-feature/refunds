@@ -1,6 +1,6 @@
 # Spryker Feature: Refunds
 
-Issuing refunds
+The Refunds feature allows to issue refunds on orders
 
 ## Installation
 
