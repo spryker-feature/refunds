@@ -7,11 +7,11 @@
     "prefer-stable": true,
     "require": {
         "php": ">=8.0",
-        "spryker/refund": "^5.5.0"
+        "spryker/refund": "^5.7.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202212.x-dev"
+            "dev-master": "202307.x-dev"
         }
     }
 }
