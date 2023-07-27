@@ -2,6 +2,8 @@
 
 The Refunds feature allows to issue refunds on orders
 
+[Learn more](https://docs.spryker.com/docs/pbc/all/order-management-system/202307.0/base-shop/refunds-feature-overview.html)
+
 ## Installation
 
 ```
