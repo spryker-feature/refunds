@@ -7,7 +7,7 @@
     "prefer-stable": true,
     "require": {
         "php": ">=8.2",
-        "spryker/refund": "^5.8.0"
+        "spryker/refund": "^5.10.0"
     },
     "extra": {
         "branch-alias": {
